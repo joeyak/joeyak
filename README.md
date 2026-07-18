@@ -2,7 +2,7 @@
 
 Over a decade of professional experience across backend/platform work. Currently driving adoption of agentic AI coding tools (Claude Code) on my team, and building CI/CD, cloud infrastructure, and testing frameworks in Go, C#, and Python.
 
-🐮 [**Mr Moo Bot**](https://bot.azaleaplays.com) - a Twitch chat bot that grew into a full site with Streamlabs and Spotify integrations. Live in production since 2019; I own design, deployment, and operations end to end.
+🐮 [**Mr Moo Bot**](https://bot.azaleaplays.com) - a Twitch chat bot that grew into a full site with Streamlabs and Spotify integrations. Live in production since 2022; I own design, deployment, and operations end to end.
 
 🎬 [**MovieNight**](https://github.com/zorchenhimer/MovieNight) ![Stars](https://img.shields.io/github/stars/zorchenhimer/MovieNight?style=social) - co-writer on a single-instance video streaming server with integrated chat.
 
